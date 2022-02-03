@@ -258,7 +258,10 @@ video {
 
 .about__text span {
   font-weight:bolder;
-}
+
+    color:#f1b91e;
+  }
+
 /* ===News=== */
 
 .news {
@@ -345,6 +348,7 @@ video {
 }
 .news__text span {
   font-weight:bolder;
+  color:#f1b91e;
 }
 
 /* ===Community=== */
